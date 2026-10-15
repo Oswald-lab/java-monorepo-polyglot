@@ -1,0 +1,7 @@
+package com.octiq.test.billing;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("billing-service (Gradle) started");
+    }
+}
